@@ -1,3 +1,4 @@
+bleh bleh
     1  echo $EDITOR
     2  echo $PATH
     3  git --version
@@ -170,10 +171,10 @@ cd `
    84  history > moving_around.txt
    85  pwd
    86  ls
-   87  ls find moving_around.txt 
+   87  ls find moving_around.txt
    88  clear
    89  ls -t
-   90  ls moving_around.txt 
+   90  ls moving_around.txt
    91  ls something_else
    92  clear
-   93  history >> moving_around.txt 
+   93  history >> moving_around.txt
