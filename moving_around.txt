@@ -1,0 +1,179 @@
+    1  echo $EDITOR
+    2  echo $PATH
+    3  git --version
+    4  git config --global user.name 'Alex Ian German'
+    5  git config --global user.email 'Alexgerman11233@gmail.com'
+    6  curl -fsSL http://git.io/7UHtNA | sh
+    7  curl -fsSL http://git.io/Fasb | sh
+    8  git config --global user.name
+    9  git config --global email.address
+   10  git config --global email.address alexgerman11233@gmail.com
+   11  git config --global email.address
+   12  clear
+   13  pwd
+   14  cd /users
+   15  cd /Users
+   16  cd /c/Users/
+   17  pwd
+   18  pwd
+   19  cd /c/Users/alex
+   20  pwd
+   21  clear
+   22  cd /c
+   23  pwd
+   24  cd /
+   25  pwd
+   26  ls
+   27  ls -t
+   28  ls -l
+   29  ls -lt
+   30  ls -r
+   31  ls -rt
+   32  clear
+   33  man ls
+   34  ls man
+   35  clear
+   36  ls -a
+   37  ls -b
+   38  ls -c
+   39  ls d
+   40  ls e
+   41  clear
+   42  cd /c/Users/al
+   43  cd /c/Users/alex/
+   44  clear
+   45  pwd
+   46  cal
+   47  clear
+   48  pwd
+   49  ls
+   50  ls -l
+   51  cd Documents/
+   52  ls -l
+   53  pwd
+   54  cd My Music
+   55  cd ~
+   56  pwd
+   57  cd /c/Users/alex/Desktop/../Documents/My Videos/
+   58  cd /c/Users/alex/Desktop/../Documents/MyVideos/
+   59  cd /c/Users/alex/Desktop/../Documents/My\Videos/
+   60  cd /c/Users/alex/Desktop/../Documents/
+   61  pwd
+   62  cd `
+cd `
+   63  cd ~
+   64  pwd
+   65  cd /c/Users/alex/Desktop/../Documents/
+   66  cd ..
+   67  pwd
+   68  pwd
+   69  ls ~
+   70  clear
+   71  ls /
+   72  pwd
+   73  ls -rt /
+   74  ls -lrt /
+   75  cd ..
+   76  cd /alex
+   77  cd/Alex
+   78  cd /c/Users/alex/
+   79  pwd
+   80  clear
+   81   history
+   82  history | less
+   83  pwd
+   84  history > moving_around.txt
+    1  echo $EDITOR
+    2  echo $PATH
+    3  git --version
+    4  git config --global user.name 'Alex Ian German'
+    5  git config --global user.email 'Alexgerman11233@gmail.com'
+    6  curl -fsSL http://git.io/7UHtNA | sh
+    7  curl -fsSL http://git.io/Fasb | sh
+    8  git config --global user.name
+    9  git config --global email.address
+   10  git config --global email.address alexgerman11233@gmail.com
+   11  git config --global email.address
+   12  clear
+   13  pwd
+   14  cd /users
+   15  cd /Users
+   16  cd /c/Users/
+   17  pwd
+   18  pwd
+   19  cd /c/Users/alex
+   20  pwd
+   21  clear
+   22  cd /c
+   23  pwd
+   24  cd /
+   25  pwd
+   26  ls
+   27  ls -t
+   28  ls -l
+   29  ls -lt
+   30  ls -r
+   31  ls -rt
+   32  clear
+   33  man ls
+   34  ls man
+   35  clear
+   36  ls -a
+   37  ls -b
+   38  ls -c
+   39  ls d
+   40  ls e
+   41  clear
+   42  cd /c/Users/al
+   43  cd /c/Users/alex/
+   44  clear
+   45  pwd
+   46  cal
+   47  clear
+   48  pwd
+   49  ls
+   50  ls -l
+   51  cd Documents/
+   52  ls -l
+   53  pwd
+   54  cd My Music
+   55  cd ~
+   56  pwd
+   57  cd /c/Users/alex/Desktop/../Documents/My Videos/
+   58  cd /c/Users/alex/Desktop/../Documents/MyVideos/
+   59  cd /c/Users/alex/Desktop/../Documents/My\Videos/
+   60  cd /c/Users/alex/Desktop/../Documents/
+   61  pwd
+   62  cd `
+cd `
+   63  cd ~
+   64  pwd
+   65  cd /c/Users/alex/Desktop/../Documents/
+   66  cd ..
+   67  pwd
+   68  pwd
+   69  ls ~
+   70  clear
+   71  ls /
+   72  pwd
+   73  ls -rt /
+   74  ls -lrt /
+   75  cd ..
+   76  cd /alex
+   77  cd/Alex
+   78  cd /c/Users/alex/
+   79  pwd
+   80  clear
+   81   history
+   82  history | less
+   83  pwd
+   84  history > moving_around.txt
+   85  pwd
+   86  ls
+   87  ls find moving_around.txt 
+   88  clear
+   89  ls -t
+   90  ls moving_around.txt 
+   91  ls something_else
+   92  clear
+   93  history >> moving_around.txt 
